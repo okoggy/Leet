@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/okoggy/Leet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/okoggy/Leet/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/okoggy/Leet/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/okoggy/Leet/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/okoggy/Leet/tree/master/0045-jump-game-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/okoggy/Leet/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/okoggy/Leet/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
