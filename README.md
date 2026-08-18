@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/okoggy/Leet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/okoggy/Leet/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/okoggy/Leet/tree/master/0045-jump-game-ii) |
+| [0120-triangle](https://github.com/okoggy/Leet/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/okoggy/Leet/tree/master/0045-jump-game-ii) |
+| [0120-triangle](https://github.com/okoggy/Leet/tree/master/0120-triangle) |
 ## String
 |  |
 | ------- |
