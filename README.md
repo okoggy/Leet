@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/okoggy/Leet/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/okoggy/Leet/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/okoggy/Leet/tree/master/0120-triangle) |
+| [0137-single-number-ii](https://github.com/okoggy/Leet/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/okoggy/Leet/tree/master/0139-word-break) |
 ## Hash Table
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/okoggy/Leet/tree/master/0139-word-break) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/okoggy/Leet/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
