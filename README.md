@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/okoggy/Leet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/okoggy/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/okoggy/Leet/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/okoggy/Leet/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/okoggy/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/okoggy/Leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/okoggy/Leet/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/okoggy/Leet/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/okoggy/Leet/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/okoggy/Leet/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/okoggy/Leet/tree/master/0322-coin-change) |
 ## String
 |  |
 | ------- |
@@ -117,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/okoggy/Leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/okoggy/Leet/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/okoggy/Leet/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/okoggy/Leet/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
