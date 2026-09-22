@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/okoggy/Leet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/okoggy/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/okoggy/Leet/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/okoggy/Leet/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/okoggy/Leet/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/okoggy/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/okoggy/Leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/okoggy/Leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/okoggy/Leet/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/okoggy/Leet/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/okoggy/Leet/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/okoggy/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/okoggy/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/okoggy/Leet/tree/master/0016-3sum-closest) |
+| [0229-majority-element-ii](https://github.com/okoggy/Leet/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/okoggy/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/okoggy/Leet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sliding Window
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/okoggy/Leet/tree/master/0322-coin-change) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/okoggy/Leet/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/okoggy/Leet/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
