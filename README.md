@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/okoggy/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/okoggy/Leet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/okoggy/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/okoggy/Leet/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/okoggy/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/okoggy/Leet/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/okoggy/Leet/tree/master/0238-product-of-array-except-self) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/okoggy/Leet/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/okoggy/Leet/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/okoggy/Leet/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/okoggy/Leet/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/okoggy/Leet/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/okoggy/Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/okoggy/Leet/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/okoggy/Leet/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
